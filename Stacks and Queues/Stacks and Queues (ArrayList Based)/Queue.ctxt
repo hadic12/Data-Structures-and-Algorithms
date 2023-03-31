@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\ Author\:\ Hadi\ Chohan\r\n\ Teacher\:\ Professor\ Kalmin\r\n\ Date\:\ 10/21/2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=index
+comment10.target=java.lang.Object\ get(int)
+comment2.params=c
+comment2.target=void\ enqueue(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ dequeue()
+comment4.params=
+comment4.target=void\ largerQueue()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment6.params=
+comment6.target=int\ size()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=object
+comment8.target=int\ indexOf(java.lang.Object)
+comment9.params=object
+comment9.target=boolean\ equals(Queue)
+numComments=11

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Geniegotchi
+comment0.text=\r\n\ This\ program\ creates\ a\ user\ interactie\ game\r\n\ where\ the\ game\ acts\ like\ a\ genie(pet)\ but\ \r\n\ we\ have\ to\ take\ care\ of\ the\ genie\ like\ feed\r\n\ it\ and\ play\ with\ it\ othrwise\ it\ will\ not\ \r\n\ predict\ the\ user's\ fortune.\r\n
+comment1.params=n
+comment1.target=void\ setName(java.lang.String)
+comment2.params=
+comment2.target=void\ getInfo()
+comment3.params=
+comment3.target=int\ getEndurance()
+comment4.params=
+comment4.target=int\ getHappiness()
+comment5.params=a
+comment5.target=java.lang.String\ tester(java.lang.String)
+comment6.params=
+comment6.target=void\ feed()
+comment7.params=
+comment7.target=void\ play()
+comment8.params=
+comment8.target=void\ askFortune()
+numComments=9
